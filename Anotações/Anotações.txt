@@ -1,0 +1,14 @@
+O Git Bash é um terminal extendido para otimizar o uso do Git
+
+
+Alguns comandos úteis do Git:
+
+git status - Mostra o status do seu repositório e avisa caso encontra alterações
+git add - Adiciona as alterações para serem enviadas pelo commit
+git commit - Salva as alterações no histórico do projeto
+git clone - Clona um repositório para a sua máquina
+
+
+
+Link para download do Git: https://git-scm.com/downloads
+Link para acessar o GitHub: http://github.com/
